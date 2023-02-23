@@ -4,3 +4,4 @@
 - 🤹‍♂️: currently studying Python, SQL
 - 🧠: passionate about machine learning (CV and NLP especially)
 - 🎯: willing to start learning data engineer stack
+- 💼: my portfolio is below ⤵
